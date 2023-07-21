@@ -18,5 +18,14 @@ I was tasked with creating a Python script that analyzes the financial records o
 * The greatest increase in profits (date and amount) over the entire period
 * The greatest decrease in profits (date and amount) over the entire period
 
-A final script was made to print within the terminal and export a text file with the [financial_analysis.txt](https://github.com/faceadversity/python-challenge/files/12115918/financial_analysis.txt).
+A final script was made to print within the terminal and export a text file that produced this resulting output [financial_analysis.txt](https://github.com/faceadversity/python-challenge/files/12115918/financial_analysis.txt).
+
+## PyPoll
+
+![Vote_counting](https://github.com/faceadversity/python-challenge/assets/137361966/4ad8e599-82ff-49ce-bf93-25ed1cbddc94)
+
+In this Challenge, I was tasked with helping a small, rural town modernize its vote-counting process.
+
+I was provided with a set of poll data called [election_data.csv](https://github.com/faceadversity/python-challenge/files/12115953/election_data.csv)
+. The dataset is composed of three columns: "Voter ID", "County", and "Candidate". I was tasked with creating a Python script that analyzes the votes and calculates each of the following values:
 
