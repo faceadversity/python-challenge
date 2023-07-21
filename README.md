@@ -29,3 +29,10 @@ In this Challenge, I was tasked with helping a small, rural town modernize its v
 I was provided with a set of poll data called [election_data.csv](https://github.com/faceadversity/python-challenge/files/12115953/election_data.csv)
 . The dataset is composed of three columns: "Voter ID", "County", and "Candidate". I was tasked with creating a Python script that analyzes the votes and calculates each of the following values:
 
+* The total number of votes cast
+* A complete list of candidates who received votes
+* The percentage of votes each candidate won
+* The total number of votes each candidate won
+* The winner of the election based on popular vote
+
+The election results were printed within the terminal and exported to a text file that produced the following output [election_analysis.txt](https://github.com/faceadversity/python-challenge/files/12115987/election_analysis.txt).
