@@ -8,18 +8,15 @@ Python challenges, PyBank and PyPoll. This small project has real world implicat
 
 ![revenue-per-lead](https://github.com/faceadversity/python-challenge/assets/137361966/e957099a-143d-4726-ab95-16d4042b1946)
 
-In this Challenge, I was tasked with creating a Python script to analyze the financial records of my company. I used my financial dataset called budget_data.csv[budget_data.csv](https://github.com/faceadversity/python-challenge/files/12115879/budget_data.csv) as a form of reference. The dataset is composed of two columns: "Date" and "Profit/Losses".  
+In this Challenge, I was tasked with creating a Python script to analyze the financial records of my company. I used my financial dataset called [budget_data.csv](https://github.com/faceadversity/python-challenge/files/12115879/budget_data.csv) as a form of reference. The dataset is composed of two columns: "Date" and "Profit/Losses".  
 
-Your task is to create a Python script that analyzes the records to calculate each of the following values:
+I was tasked with creating a Python script that analyzes the financial records of my company to obtain the following values:
 
-The total number of months included in the dataset
+* The total number of months included in the dataset
+* The net total amount of "Profit/Losses" over the entire period
+* The changes in "Profit/Losses" over the entire period, and then the average of those changes
+* The greatest increase in profits (date and amount) over the entire period
+* The greatest decrease in profits (date and amount) over the entire period
 
-The net total amount of "Profit/Losses" over the entire period
+A final script was made to print within the terminal and export a text file with the [financial_analysis.txt](https://github.com/faceadversity/python-challenge/files/12115918/financial_analysis.txt).
 
-The changes in "Profit/Losses" over the entire period, and then the average of those changes
-
-The greatest increase in profits (date and amount) over the entire period
-
-The greatest decrease in profits (date and amount) over the entire period
-
-Your analysis should align with the following results:
